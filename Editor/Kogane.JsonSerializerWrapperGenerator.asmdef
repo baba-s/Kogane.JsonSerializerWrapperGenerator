@@ -1,0 +1,21 @@
+{
+    "name": "Kogane.JsonSerializerWrapperGenerator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e9d1e2e10e566a4c8666ab2237a80b5",
+        "GUID:fc1a07a92e5d69a4d99bc2558008fa8f",
+        "GUID:426cb4041f6a06843955df870085a1bd",
+        "GUID:c13ec74744a798b44b7f48850f3f53bd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
